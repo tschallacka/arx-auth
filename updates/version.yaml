@@ -1,0 +1,4 @@
+1.0.0: First version of ArxAuth
+1.0.1:
+    - Add Eve Online Fields to Users Table
+    - add_eve_online_fields_to_users_table.php
